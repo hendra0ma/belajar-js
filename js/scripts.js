@@ -21,7 +21,7 @@
 
 const inputNama = document.getElementById('nama')
 const inputSubmit = document.getElementById('submit')
-const container = document.getElementById('container-nama')
+// const container = document.getElementById('container-nama')
 
 
 inputSubmit.addEventListener('click', actionSubmit);
