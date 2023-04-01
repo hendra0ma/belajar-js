@@ -22,7 +22,7 @@
 const inputNama = document.getElementById('nama')
 const inputSubmit = document.getElementById('submit')
 // const container = document.getElementById('container-nama')
-//asdfsdf
+//anjas
 
 inputSubmit.addEventListener('click', actionSubmit);
 
